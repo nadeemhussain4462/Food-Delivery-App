@@ -12,7 +12,7 @@ const Offer = () => {
         </h1>
         <p className="text-white xl:text-xl">
           Progressively simplify effective e-toilers and process-centric methods
-          of empowerment. Quickly pontificate parallel.{" "}
+          of empowerment. Quickly pontificate parallel.
         </p>
         <CountDown />
         <button className="bg-red-500 text-white rounded-md py-3 px-6">
@@ -20,7 +20,7 @@ const Offer = () => {
         </button>
       </div>
       {/* Image Container  */}
-      <div className="relative flex-1 w-full md:h-full">
+      <div className=" flex-1 relative w-full md:h-full">
         <Image src="/offerProduct.png" alt="" fill className="object-contain" />
       </div>
     </div>
